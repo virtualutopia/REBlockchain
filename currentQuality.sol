@@ -13,7 +13,6 @@ contract Quality
         TEST_STATE cableTest;
         TEST_STATE brakeTest;
     }
-        
     struct ColumnQulaityReport{
         uint serialnumberOfColumn;
         TEST_STATE columnCertificate;
