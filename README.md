@@ -8,12 +8,12 @@ The output is a hash of all the previous data and new data.
 
 
 Server Instance IP:  3.235.121.137
+
 Public key:          0x19084F088F3A5C7D3f4C40D9BbB14EA3e2500689
-private:       
-password:            "farid@123"
+
 Enode:               "enode://fa1000a4b8dae7495b97d642a5e49d4f07116bf75347454dde8bb57c037c682821fad2dc6517196b886fdb3a688fe7720047bb2a3be85b288cca09fac2a48689@127.0.0.1:30303"
 
-The deployed contract address and transactionHash are provided trough CodeBoxx portal.
+The paswword, deployed contract address, and transactionHash are provided trough CodeBoxx portal.
 Should you need any furthur information do not hesitate to contact me.
 Thanks
 
